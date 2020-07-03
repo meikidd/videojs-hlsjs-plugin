@@ -1,5 +1,5 @@
 {
-  "name": "videojs-hlsjs-plugin",
+  "name": "@meikidd/videojs-hlsjs-plugin",
   "version": "1.0.15",
   "main": "./lib/main.js",
   "homepage": "www.streamroot.io",
@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:streamroot/videojs-hlsjs-plugin"
+    "url": "git@github.com:meikidd/videojs-hlsjs-plugin"
   },
   "scripts": {
     "build": "webpack --env.production",

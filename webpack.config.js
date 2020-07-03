@@ -72,7 +72,7 @@ module.exports = env => {
     entry: path.resolve(sourcePath, 'main.js'),
     output: {
       library: 'hlsSourceHandler',
-      libraryTarget: 'window',
+      libraryTarget: 'umd',
       path: distPath,
       filename: 'videojs-hlsjs-plugin.js'
     },
